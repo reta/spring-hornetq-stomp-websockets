@@ -1,0 +1,1 @@
+Embedded JBoss HornetQ broker with STOMP over Websockets connector 
